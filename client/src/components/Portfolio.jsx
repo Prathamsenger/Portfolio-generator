@@ -444,7 +444,7 @@ const PortfolioGenerator = () => {
                   value={formData.name}
                   onChange={handleInputChange}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
-                  placeholder="John Doe"
+                  placeholder="Rahul Sharma"
                 />
               </div>
               <div>
@@ -470,7 +470,7 @@ const PortfolioGenerator = () => {
                   value={formData.email}
                   onChange={handleInputChange}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
-                  placeholder="john@example.com"
+                  placeholder="rahul@example.com"
                 />
               </div>
               <div>
@@ -481,7 +481,7 @@ const PortfolioGenerator = () => {
                   value={formData.phone}
                   onChange={handleInputChange}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
-                  placeholder="+1 234 567 8900"
+                  placeholder="+91 99333-33333"
                 />
               </div>
               <div>
@@ -492,7 +492,7 @@ const PortfolioGenerator = () => {
                   value={formData.location}
                   onChange={handleInputChange}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
-                  placeholder="New York, NY"
+                  placeholder="Delhi,India"
                 />
               </div>
             </div>
@@ -507,7 +507,7 @@ const PortfolioGenerator = () => {
                   value={formData.website}
                   onChange={handleInputChange}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
-                  placeholder="https://johndoe.com"
+                  placeholder="https://rahul.com"
                 />
               </div>
               <div>
@@ -518,7 +518,7 @@ const PortfolioGenerator = () => {
                   value={formData.github}
                   onChange={handleInputChange}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
-                  placeholder="https://github.com/johndoe"
+                  placeholder="https://github.com/rahul"
                 />
               </div>
               <div>
@@ -529,7 +529,7 @@ const PortfolioGenerator = () => {
                   value={formData.linkedin}
                   onChange={handleInputChange}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
-                  placeholder="https://linkedin.com/in/johndoe"
+                  placeholder="https://linkedin.com/in/rahul"
                 />
               </div>
             </div>
